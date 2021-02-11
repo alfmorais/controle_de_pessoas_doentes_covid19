@@ -21,4 +21,5 @@
 5. Os dados serão encaminhados para o Ambulatório pra analise e decisão sobre a volta do funcionário. 
 
 ## Colaboradores do Projeto
- [Alfredo de Morais](https://github.com/alfmorais)
+[Alfredo de Morais](https://github.com/alfmorais)
+[Luis Gustavo da Silva Amaral](https://github.com/LuisGustavo2010)
